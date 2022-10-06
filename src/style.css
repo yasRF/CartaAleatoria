@@ -1,1 +1,47 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.card {
+  width: 300px;
+  height: 500px;
+  border-radius: 25px;
+  margin: auto;
+  background-color: white;
+}
+
+.cardContainer1 {
+  padding-top: 0px;
+  margin-bottom: 10px;
+}
+
+.icono {
+  font-size: 80px;
+  padding-left: 10px;
+}
+
+.cardContentContainer {
+  font-size: 150px;
+  text-align: center;
+}
+
+.p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.cardContainer2 {
+  margin-top: 40px;
+  padding-right: 7px;
+  font-size: 95px;
+  margin-bottom: 15px;
+}
+
+.btn {
+  color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+.icono2 {
+  transform: rotate(-180deg);
+}
